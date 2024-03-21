@@ -1,3 +1,11 @@
+**NOTE:** Please check Elegoo's website or repository for the latest releases. These were provided to me on October 17th 2023 (10/17/2023).
+- Elegoo's Firnware GitHub Repository: https://github.com/NARUTOfzr
+- Elegoo's Main Github: https://github.com/elegooofficial
+- Elegoo's Website: https://www.elegoo.com/pages/3d-printing-user-support
+
+
+
+
 # Elegoo_Neptune_4_Max_Plus_Firmware
 
 Firmware update files for the Elegoo Neptune 4 Max provided to MandicReally by Elegoo.
@@ -11,11 +19,6 @@ As of today (11/11/2023) the latest release in this repository is:
 - Neptune 4 PLUS Mainboard Firmware: [1.2.2.51 BETA](Neptune4plus-Firmware/4plus_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
 - Neptune 4 PLUS UI Firmware: [1.2.11](UI_Touchscreen_Firmware_N4Max/ui_1.2.11_231012.tft)
 - 
-**NOTE:** Please check Elegoo's website or repository for the latest releases. These were provided to me on October 17th 2023 (10/17/2023).
-- Elegoo's Firnware GitHub Repository: https://github.com/NARUTOfzr
-- Elegoo's Main Github: https://github.com/elegooofficial
-- Elegoo's Website: https://www.elegoo.com/pages/3d-printing-user-support
-
 <h2>Update Instructions:</h2> ( Clarified by MandicReally based on Elegoo's DOC.)
 
 <h3>Mainboard:</h3>
